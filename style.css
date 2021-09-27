@@ -1,6 +1,6 @@
 .media {
   display: inline-block;
-  width: 100%;
+  width: 50%;
   height: 0;
   position: relative;
   padding-top: 56.25%;
@@ -11,7 +11,7 @@
   position: absolute;
   top: 0;
   left: 0;
-  width: 50% !important;
+  width: 100% !important;
   height: 100% !important;
 }
 
@@ -19,6 +19,6 @@
   position: absolute;
   top: 0;
   left: 0;
-  width: 50% !important;
+  width: 100% !important;
   height: 100% !important;
 }
