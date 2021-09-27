@@ -1,10 +1,7 @@
 .media {
   display: inline-block;
-  width: 50%;
-  height: 0;
   position: relative;
   padding-top: 56.25%;
-  overflow: hidden;
 }
 
 .media iframe {
