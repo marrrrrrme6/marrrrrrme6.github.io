@@ -1,5 +1,7 @@
 .media {
   display: inline-block;
+  width: 30%;
+  height: 70%;
   position: relative;
   padding-top: 56.25%;
 }
