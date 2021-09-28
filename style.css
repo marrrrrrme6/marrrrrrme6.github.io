@@ -21,11 +21,11 @@
   margin-top: 10px;/*上の余白も指定できる*/
   margin-bottom: 10px;/*下の余白も指定できる*/
   vertical-align: middle;/*縦の表示位置も指定できる*/
-  background: gray;/*背景を水色に*/
   font-weight: bold;/*文字を太字に*/
 }
 
 .header {
   width: 100%;
-　position:fixed;
+  background: gray;/*背景を水色に*/
+  position:fixed;
 }
