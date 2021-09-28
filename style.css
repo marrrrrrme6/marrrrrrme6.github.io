@@ -29,7 +29,13 @@
   z-index: 9999;
   width: 100%;
   background: gray;/*背景を水色に*/
-  position:fixed;
+  position: absolute;
   top: 0px;
   left: 0px;
 }
+
+header {
+  position: absolute;
+  top: 0px;
+}
+
