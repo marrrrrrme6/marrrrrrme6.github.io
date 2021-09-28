@@ -10,7 +10,7 @@
   position: absolute;
   top: 0;
   left: 0;
-  width: 50% !important;
+  width: 100% !important;
   height: 100% !important;
 }
 
@@ -19,7 +19,7 @@
   position: absolute;
   top: 0;
   left: 0;
-  width: 10% !important;
+  width: 50% !important;
   height: 100% !important;
 }
 
