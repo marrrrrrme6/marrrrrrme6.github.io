@@ -39,7 +39,7 @@
 }
 
 .img {
-  margin-left: auto;
+  float: left;
   width: 100%;
   top: 0px;
   left: 0px;
