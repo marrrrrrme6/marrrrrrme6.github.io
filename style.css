@@ -15,7 +15,7 @@
 }
 
 .title {
-  display: inline-block;/*inline-blockにします*/
+  /*display: inline-block;inline-blockにします*/
   width: 100%;/*幅も指定できる*/
   padding: 10px 0;/*余白も指定できる*/
   margin-top: 10px;/*上の余白も指定できる*/
