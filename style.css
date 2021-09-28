@@ -5,7 +5,16 @@
   padding-top: 56.25%;
 }
 
-.media iframe a {
+.media iframe {
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 50% !important;
+  height: 100% !important;
+}
+
+.media a {
   display: inline-block;
   position: absolute;
   top: 0;
