@@ -26,8 +26,8 @@
 }
 
 .twitter-timeline {
-  width: 80%; 
-  height: 300px;
+  width: 85%; 
+  height: auto!important;
 
 }
 
