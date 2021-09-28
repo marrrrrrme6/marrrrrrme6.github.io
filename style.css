@@ -1,3 +1,6 @@
+body {
+  width: 700px;
+}
 .media {
   display: inline-block;
   width: 100%;
