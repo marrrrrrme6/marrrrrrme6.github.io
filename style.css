@@ -23,8 +23,8 @@
   font-weight: bold;/*文字を太字に*/
 }
 
-html { height=100% }
-body { height=100% }
+html { height: 100% }
+body { height: 100% }
 
 .twitter-timeline {
   width: 85%!important; 
