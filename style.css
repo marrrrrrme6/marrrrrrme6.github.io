@@ -38,7 +38,11 @@
   left: 0px;
 }
 
-@media screen and (max-width: 780px) {
+.img {
+  top: 0px
+}
+
+@media screen and (min-width: 780px) {
   
 .twitter-timeline {
   width: 42%!important; 
