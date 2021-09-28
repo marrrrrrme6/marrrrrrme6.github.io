@@ -25,6 +25,12 @@
   font-weight: bold;/*文字を太字に*/
 }
 
+.twitter-timeline {
+  width: 80%; 
+  height: 300px;
+
+}
+
 .header {
   z-index: 9999;
   width: 100%;
