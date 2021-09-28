@@ -23,6 +23,9 @@
   font-weight: bold;/*文字を太字に*/
 }
 
+html { height=100% }
+body { height=100% }
+
 .twitter-timeline {
   width: 85%!important; 
   height: 50%!important;
@@ -33,13 +36,8 @@
   z-index: 9999;
   width: 100%;
   background: gray;/*背景を水色に*/
-  position: absolute;
-  top: 0px;
-  left: 0px;
-}
-
-header {
   position: fixed;
   top: 0px;
+  left: 0px;
 }
 
