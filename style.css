@@ -18,7 +18,7 @@
   display: inline-block;/*inline-blockにします*/
   width: 100%;/*幅も指定できる*/
   padding: 10px 0;/*余白も指定できる*/
-  margin: 10px 0px;/*余白も指定できる*/
+  margin: 10px 1px;/*余白も指定できる*/
   vertical-align: middle;/*縦の表示位置も指定できる*/
   background: gray;/*背景を水色に*/
   font-weight: bold;/*文字を太字に*/
