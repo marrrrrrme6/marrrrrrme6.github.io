@@ -42,8 +42,8 @@
   position: abosolute;
   width: 100%;
   height:  100%;
-  top: 0px
-  left: 0px
+  top: 0px;
+  left: 0px;
 }
 
 @media screen and (min-width: 780px) {
