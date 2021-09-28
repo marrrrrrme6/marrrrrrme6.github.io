@@ -28,4 +28,6 @@
   width: 100%;
   background: gray;/*背景を水色に*/
   position:fixed;
+  top: 0px;
+  left: 0px;
 }
