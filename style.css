@@ -5,21 +5,12 @@
   padding-top: 56.25%;
 }
 
-.media iframe+a {
+.media iframe a {
   display: inline-block;
   position: absolute;
   top: 0;
   left: 0;
-  width: 30% !important;
-  height: 100% !important;
-}
-
-.media iframe {
-  display: inline-block;
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 70% !important;
+  width: 50% !important;
   height: 100% !important;
 }
 
