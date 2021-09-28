@@ -2,7 +2,6 @@ body {
   width: 700px;
 }
 .media {
-  display: inline-block;
   width: 100%;
   height: 0;
   position: relative;
@@ -10,6 +9,7 @@ body {
 }
 
 .media iframe+a {
+  display: inline-block;
   position: absolute;
   top: 0;
   left: 0;
@@ -18,6 +18,7 @@ body {
 }
 
 .media iframe {
+  display: inline-block;
   position: absolute;
   top: 0;
   left: 0;
