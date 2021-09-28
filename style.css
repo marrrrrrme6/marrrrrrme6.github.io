@@ -24,3 +24,7 @@
   background: gray;/*背景を水色に*/
   font-weight: bold;/*文字を太字に*/
 }
+
+.header {
+　position:fixed;
+}
