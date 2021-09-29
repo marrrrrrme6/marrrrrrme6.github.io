@@ -20,7 +20,7 @@ body {
   height: 100%;
 }
 
-.title {
+#title {
   /*display: inline-block;inline-blockにします*/
   /*width: 100%; 幅も指定できる*/
   padding: 10px 5px 0px 0px;/*上の余白も指定できる*/
@@ -45,7 +45,7 @@ body {
   left: 0px;
 }
 
-.img {
+#thum_img {
   display: inline-block;
   width: 100%;
 }
