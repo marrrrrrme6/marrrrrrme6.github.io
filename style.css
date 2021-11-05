@@ -5,7 +5,10 @@ body {
 　　a🔗 blue;
 　　a:active: blue;
 　　a:visited: purple;
-　　a:text-decoration: none;
+}
+
+a {
+    text-decoration:none; 
 }
 
 .media {
