@@ -33,7 +33,7 @@ a {
   vertical-align: middle;/*縦の表示位置も指定できる*/
   font-weight: bold;/*文字を太字に*/
   color: white;
-  a:visited: silver;
+  a:visited: silver!important;
 }
 
 .twitter-timeline {
