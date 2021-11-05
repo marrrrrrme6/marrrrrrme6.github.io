@@ -47,6 +47,7 @@ body {
 
 #thum_img {
   /*display: inline-block;*/
+  margin: 0px;
   width: 100%;
 }
 
