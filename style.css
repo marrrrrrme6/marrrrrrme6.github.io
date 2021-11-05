@@ -8,7 +8,7 @@ body {
 }
 
 a {
-    text-decoration: none!important; 
+    text-decoration: none; 
 }
 
 .media {
@@ -36,8 +36,8 @@ a {
 }
 
 .twitter-timeline {
-  width: 85%!important; 
-  height: 700px!important;
+  width: 85%; 
+  height: 700px;
 
 }
 
@@ -62,7 +62,7 @@ a {
 @media screen and (min-width: 780px) {
   
 .twitter-timeline {
-  width: 42%!important; 
-  height: 700px!important;
+  width: 42%; 
+  height: 700px;
 
 }
