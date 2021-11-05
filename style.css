@@ -51,6 +51,10 @@ body {
   width: 100%;
 }
 
+#margin {
+ margin: 1%;
+}
+
 @media screen and (min-width: 780px) {
   
 .twitter-timeline {
