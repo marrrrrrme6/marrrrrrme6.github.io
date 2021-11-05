@@ -12,6 +12,10 @@ body {
   padding-top: 56.25%;
 }
 
+a {
+  text-decoration: none;
+}
+
 .media iframe {
   display: inline-block;
   position: absolute;
@@ -53,10 +57,6 @@ body {
 
 .margin {
  margin: 1%;
-}
-
-a {
-  text-decoration: none;
 }
 
 @media screen and (min-width: 780px) {
