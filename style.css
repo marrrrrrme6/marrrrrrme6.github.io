@@ -35,11 +35,13 @@ a {
   color: white;
   a:visited: white!important;
 }
+.twitter {
+  width: 85%!important; 
+}
 
 .twitter-timeline {
   width: 85%!important; 
   height: 700px!important;
-
 }
 
 .header {
