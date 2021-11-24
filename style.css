@@ -39,9 +39,8 @@ a {
   width: 85%!important; 
 }
 
-.twitter-timelin {
+.twitter-timeline {
   width: 85%!important; 
-  height: 700px!important;
 }
 
 .header {
@@ -64,8 +63,6 @@ a {
 
 @media screen and (min-width: 780px) {
   
-.twitter-timelin {
+.twitter-timeline {
   width: 42%!important; 
-  height: 700px!important;
-
 }
