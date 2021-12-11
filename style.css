@@ -55,7 +55,7 @@ a {
 }
 
 .margin {
- margin: 2%;
+ margin: 5px;
 }
 
 @media screen and (min-width: 780px) {
