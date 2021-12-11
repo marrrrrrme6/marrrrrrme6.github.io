@@ -54,7 +54,7 @@ a {
 }
 
 .margin {
- margin: 5px;
+ margin: 2%;
 }
 
 @media screen and (min-width: 780px) {
@@ -64,7 +64,7 @@ a {
 }
 
 .margin {
- margin: 2%;
+ margin: 1%;
 }
 
 .media iframe {
