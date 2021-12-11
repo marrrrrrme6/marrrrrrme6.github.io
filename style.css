@@ -17,7 +17,6 @@ a {
 }
 
 .media iframe {
-  display: inline-block;
   position: absolute;
   top: 0;
   left: 0;
@@ -64,8 +63,11 @@ a {
   width: 42%!important; 
 }
 
+.margin {
+ margin: 2%;
+}
+
 .media iframe {
-  display: inline-block;
   position: absolute;
   top: 0;
   left: 0;
