@@ -64,7 +64,8 @@ a {
 
 .icon {
     border-radius:50%;  /* 角丸半径を50%にする(=円形にする) */
-    width:  6%;       /* ※縦横を同値に */
+    width:  15%;       /* ※縦横を同値に */
+    height: 15%;
 }
 
 @media screen and (min-width: 780px) {
@@ -88,5 +89,6 @@ a {
 .icon {
     border-radius:50%;  /* 角丸半径を50%にする(=円形にする) */
     width:  6%;       /* ※縦横を同値に */
+    height: 6%;
 }
 
