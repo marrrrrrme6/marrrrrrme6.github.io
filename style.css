@@ -58,6 +58,10 @@ a {
  margin: 2%;
 }
 
+.right {
+    text-align: right;
+}
+
 @media screen and (min-width: 780px) {
   
 .twitter-timeline {
