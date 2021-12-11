@@ -33,7 +33,7 @@ a {
   vertical-align: middle;/*縦の表示位置も指定できる*/
   font-weight: bold;/*文字を太字に*/
   color: white;
-  a:visited: white!important;
+  border: solid;
 }
 
 .twitter-timeline {
@@ -69,7 +69,7 @@ a {
 }
 
 .margin {
- margin: 1%;
+ margin: 1.3%;
 }
 
 .media iframe {
@@ -79,3 +79,9 @@ a {
   width: 50%;
   height: 50%;
 }
+
+.icon {
+    border-radius:50%;  /* 角丸半径を50%にする(=円形にする) */
+    width:  6%;       /* ※縦横を同値に */
+}
+
