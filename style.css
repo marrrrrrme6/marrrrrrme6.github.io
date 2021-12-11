@@ -62,6 +62,11 @@ a {
     text-align: right;
 }
 
+.icon {
+    border-radius:50%;  /* 角丸半径を50%にする(=円形にする) */
+    width:  6%;       /* ※縦横を同値に */
+}
+
 @media screen and (min-width: 780px) {
   
 .twitter-timeline {
