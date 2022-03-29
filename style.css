@@ -28,9 +28,18 @@ a {
   text-decoration: none; 
 }
 
-ul {
-  display: flex;
+header .menu {
+    display: flex; /* 中の要素を横並びにする */
 }
+
+header .menu li {
+    list-style: none; /* リストの[・]を消す */
+}
+
+header .menu li + li {
+    margin-left: 40px; /* メニューそれぞれに間隔をあけるため */
+}
+
 .youtube_embed {
   position: relative;
   width: 100%;
