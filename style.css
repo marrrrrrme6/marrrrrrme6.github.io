@@ -1,5 +1,7 @@
 @media (prefers-color-scheme: dark) {
   body {
+    margin: 0;
+    padding: 0;
     background-color: red;
     background: green;
     color: #f1f1f1;
@@ -11,6 +13,8 @@
 }
 
 body {
+  margin: 0;
+  padding: 0;
   background-color: blue;
   background: yellow;
   color: #333;
