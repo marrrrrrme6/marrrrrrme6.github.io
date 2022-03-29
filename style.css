@@ -59,10 +59,11 @@ a {
 .header {
   z-index: 9999;
   width: 100%;
-  background: #222;/*背景を水色に*/
+  background: #222;
   position: fixed;
   top: 0px;
   left: 0px;
+  display: flex;
 }
 
 #thum_img {
