@@ -1,3 +1,15 @@
+@media (prefers-color-scheme: dark) {
+  body {
+    margin:0px;
+    background-color: #333;
+    color: ;
+    a🔗 blue;
+    a:active: blue;
+    a:visited: purple;
+    border: solid;
+  }
+}
+
 body {
   margin:0px;
   background-color: #f1f1f1;
