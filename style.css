@@ -28,6 +28,16 @@ a {
   text-decoration: none; 
 }
 
+header {
+  z-index: 9999;
+  width: 100%;
+  background: #222;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  display: flex;
+}
+
 header .menu {
     display: flex; /* 中の要素を横並びにする */
 }
@@ -66,16 +76,6 @@ header .menu li + li {
 
 .twitter-timeline {
   width: 85%!important; 
-}
-
-.header {
-  z-index: 9999;
-  width: 100%;
-  background: #222;
-  position: fixed;
-  top: 0px;
-  left: 0px;
-  display: flex;
 }
 
 #thum_img {
