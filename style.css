@@ -47,7 +47,7 @@ header .menu li {
 }
 
 header .menu li + li {
-    margin-left: 40px; /* メニューそれぞれに間隔をあけるため */
+    margin-left: 2px; /* メニューそれぞれに間隔をあけるため */
 }
 
 .youtube_embed {
