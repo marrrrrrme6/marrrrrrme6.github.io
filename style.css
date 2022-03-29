@@ -38,15 +38,15 @@ header {
   display: flex;
 }
 
-header .menu {
+header nav .menu {
     display: flex; /* 中の要素を横並びにする */
 }
 
-header .menu li {
+header nav .menu li {
     list-style: none; /* リストの[・]を消す */
 }
 
-header .menu li + li {
+header nav .menu li + li {
     margin-left: 2px; /* メニューそれぞれに間隔をあけるため */
 }
 
