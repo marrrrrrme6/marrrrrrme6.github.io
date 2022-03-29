@@ -2,8 +2,8 @@
   body {
     margin: 0;
     padding: 0;
-    background-color: red;
-    background: green;
+    background-color: #333;
+    background: #333;
     color: #f1f1f1;
     a🔗 blue;
     a:active: blue;
@@ -15,8 +15,8 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: blue;
-  background: yellow;
+  background-color: #f1f1f1;
+  background: #f1f1f1;
   color: #333;
   a🔗 blue;
   a:active: blue;
