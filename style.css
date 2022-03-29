@@ -25,9 +25,12 @@ body {
 }
 
 a {
-    text-decoration: none; 
+  text-decoration: none; 
 }
 
+ul {
+  display: flex;
+}
 .youtube_embed {
   position: relative;
   width: 100%;
