@@ -2,7 +2,6 @@
   body {
     margin: 0;
     padding: 0;
-    background-color: #333;
     background: #333;
     color: #f1f1f1;
     a🔗 blue;
@@ -15,7 +14,6 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: #f1f1f1;
   background: #f1f1f1;
   color: #333;
   a🔗 blue;
@@ -33,6 +31,7 @@ a {
   width: 100%;
   padding-top: 56.25%;
 }
+
 .youtube_embed iframe {
   position: absolute;
   top: 0;
@@ -56,15 +55,28 @@ a {
   width: 85%!important; 
 }
 
-.header {
+header {
   z-index: 9999;
   width: 100%;
-  background: #222;
-  /* position: fixed; */
+  background: #333;
   position: sticky;
   position: -webkit-sticky;
   top: 0px;
   left: 0px;
+}
+
+header .gnav .menu {
+    margin: 0;
+    padding: 4px;
+    display: flex; /* 中の要素を横並びにする */
+}
+
+header .gnav .menu li {
+    list-style: none; /* リストの[・]を消す */
+}
+
+header .gnav .menu li + li {
+    margin-left: 5px; /* メニューそれぞれに間隔をあけるため */
 }
 
 #thum_img {
@@ -73,7 +85,11 @@ a {
 }
 
 .margin {
- margin: 2%;
+ margin: 5px;
+}
+
+.padding {
+ padding: 5px;
 }
 
 .right {
@@ -87,7 +103,13 @@ a {
 }
 
 @media screen and (min-width: 780px) {
-  
+
+.youtube_embed {
+  position: relative;
+  width: 50%;
+  padding-top: 28.12%;
+}
+
 .twitter-timeline {
   width: 42%!important; 
 }
