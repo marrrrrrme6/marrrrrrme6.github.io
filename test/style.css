@@ -22,7 +22,7 @@ header .gnav .menu li {
 }
 
 header .gnav .menu li + li {
-    margin-left: 40px; /* メニューそれぞれに間隔をあけるため */
+    margin-left: 5px; /* メニューそれぞれに間隔をあけるため */
 }
 
 .right {
