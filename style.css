@@ -60,7 +60,9 @@ a {
   z-index: 9999;
   width: 100%;
   background: #222;
-  position: fixed;
+  /* position: fixed; */
+  position: sticky;
+  position: -webkit-sticky;
   top: 0px;
   left: 0px;
 }
