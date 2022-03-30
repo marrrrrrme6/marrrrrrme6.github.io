@@ -54,7 +54,7 @@ header {
 }
 
 #title {
-  display: inline-block; /*inline-blockにします*/
+  display: inline; /*inline-blockにします*/
   /*width: 100%; 幅も指定できる*/
   padding: 10px 5px 0px 0px;/*上の余白も指定できる*/
   margin: 10px 1px 0px 0px;/*余白も指定できる*/
