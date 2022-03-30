@@ -1,7 +1,6 @@
 @media (prefers-color-scheme: dark) {
   body {
     margin: 0;
-    padding-top: 90px;
     padding: 0;
     background-color: #333;
     background: #333;
@@ -15,7 +14,6 @@
 
 body {
   margin: 0;
-  padding-top: 90px;
   padding: 0;
   background-color: #f1f1f1;
   background: #f1f1f1;
@@ -27,16 +25,7 @@ body {
 }
 
 a {
-  text-decoration: none; 
-}
-
-header {
-  z-index: 9999;
-  width: 100%;
-  background: #222;
-  position: fixed;
-  top: 0px;
-  left: 0px;
+    text-decoration: none; 
 }
 
 .youtube_embed {
@@ -53,7 +42,7 @@ header {
 }
 
 #title {
-  /*display: inline-block; inline-blockにします*/
+  /*display: inline-block;inline-blockにします*/
   /*width: 100%; 幅も指定できる*/
   padding: 10px 5px 0px 0px;/*上の余白も指定できる*/
   margin: 10px 1px 0px 0px;/*余白も指定できる*/
@@ -65,6 +54,16 @@ header {
 
 .twitter-timeline {
   width: 85%!important; 
+}
+
+.header {
+  z-index: 9999;
+  width: 100%;
+  background: #222;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  display: flex;
 }
 
 #thum_img {
@@ -109,4 +108,3 @@ header {
     width:  6%;       /* ※縦横を同値に */
     height: 6%;
 }
-
