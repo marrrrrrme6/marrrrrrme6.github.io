@@ -1,0 +1,65 @@
+body {
+  background-color: #2b2b2f;
+  margin: 0
+}
+
+header {
+  z-index: 9999;
+  width: 100%;
+  height: auto;
+  position: sticky;
+  position: -webkit-sticky;
+  padding: 10px;
+  display: block;
+  background-color: #1b1a1c;
+  box-sizing: border-box;
+}
+
+.header-top {
+  display: flex;
+}
+
+.header-top>h1 {
+  margin-left: 30px
+}
+
+.header-bottom {
+  position: relative;
+  display: flex;
+}
+
+.nav-list {
+  display: flex;
+  text-align: left;
+  padding: 10px 0;
+  margin: 0 10;
+}
+
+.nav-list-item {
+  list-style: none;
+  display: flex;
+  margin: 0 20px;
+}
+
+.right {
+  width: 100px;
+  height: auto;
+  display: flex;
+  margin-left: auto;
+  margin-right: 10px;
+}
+
+.icon {
+  display: flex;
+  border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
+  width: 90px;        /*※縦横を同値に */
+  height: auto;
+}
+
+.body {
+  padding: 10px;
+}
+
+.timeline {
+  max-width: 30%;
+}
