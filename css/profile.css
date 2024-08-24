@@ -1,0 +1,18 @@
+#main-page>li {
+    list-style: none;
+    text-align: center;
+    margin: 0 0 20px 0;
+}
+
+#main-page>li>a {
+    text-decoration: none;
+}
+
+#main-page>li>a>div {
+    display: block;
+    width: 300px;
+    height: 40px;
+    padding: 15px 0 0 0;
+    background: lightgray;
+    border-radius: 10px;
+}
